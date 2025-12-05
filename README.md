@@ -12,6 +12,10 @@ You can click the Preview link to take a look at your changes.
 #### 🔭 I’m currently working on:
 
 <span>
+  <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"/>
+</span>
+
+<span>
   <img width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"/>
 </span>
 
