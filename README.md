@@ -4,9 +4,9 @@ You can click the Preview link to take a look at your changes.
 --->
 ### Hi there... I'm Wajahat 👋
 
-- 👀 I’m interested in Secure Software Engineering
-- 🌱 I’m currently learning DSA.
-- 💞️ CyberSecurity is Love.
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently working on AI models, LLMs, AI Chatbot Development.
+- 💞️ AI/ML is Love.
 - 📫 I’m looking to collaborate on open source projects 
 
 #### 🔭 I’m currently working on:
